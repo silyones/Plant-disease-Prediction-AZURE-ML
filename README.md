@@ -15,7 +15,7 @@ This tool can help farmers and researchers quickly identify crop issues, take ea
 **Fine-tuning:** Last layers of MobileNetV2 were unfrozen for better accuracy
 
 ## Usage
-[Clone Repository](https://github.com/silyones/Plant-Disease-Detection-AZURE-ML.git)
+[Clone Repository](https://github.com/silyones/Plant-disease-Prediction-AZURE-ML.git)
 
 ## Training Results
 ![Training Loss](https://github.com/silyones/Plant-disease-Prediction-AZURE-ML/blob/main/model_loss.jpg?raw=true)  
