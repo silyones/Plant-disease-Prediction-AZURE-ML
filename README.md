@@ -18,5 +18,6 @@ This tool can help farmers and researchers quickly identify crop issues, take ea
 [Clone Repository](https://github.com/silyones/Plant-Disease-Detection-AZURE-ML.git)
 
 ## Training Results
-![Training Loss]("Plant-disease-Prediction-AZURE-ML/model_loss.jpg")  
+![Training Loss](https://github.com/silyones/Plant-disease-Prediction-AZURE-ML/blob/main/model_loss.jpg?raw=true)  
 *Training loss curve showing model performance over epochs.*
+
